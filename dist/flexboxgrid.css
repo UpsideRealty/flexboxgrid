@@ -29,8 +29,8 @@
   flex-direction: row;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  margin-right: -0.5rem;
-  margin-left: -0.5rem;
+  margin-right: -0.75rem;
+  margin-left: -0.75rem;
 }
 
 .row.reverse {
@@ -77,8 +77,8 @@
   -webkit-box-flex: 0;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
 }
 
 .col-xs {
@@ -274,7 +274,7 @@
 
 @media only screen and (min-width: 37.5em) {
   .container {
-    width: 38.5rem;
+    width: 39rem;
   }
 
   .col-sm,
@@ -307,8 +307,8 @@
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
   }
 
   .col-sm {
@@ -505,7 +505,7 @@
 
 @media only screen and (min-width: 60em) {
   .container {
-    width: 61rem;
+    width: 61.5rem;
   }
 
   .col-md,
@@ -538,8 +538,8 @@
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
   }
 
   .col-md {
@@ -736,7 +736,7 @@
 
 @media only screen and (min-width: 80em) {
   .container {
-    width: 81rem;
+    width: 81.5rem;
   }
 
   .col-lg,
@@ -769,8 +769,8 @@
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
   }
 
   .col-lg {
